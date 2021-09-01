@@ -1,0 +1,5 @@
+magikarp;18;73;amarillo
+dratini_flash;100;73;rojo
+dratini_gordo;58;730;rojo
+pikachu;18;73;amarillo
+carvanha;18;73;verde
